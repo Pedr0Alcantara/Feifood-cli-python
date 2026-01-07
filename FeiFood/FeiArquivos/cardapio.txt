@@ -1,0 +1,21 @@
+Hamburguer,15.00
+Pizza,30.00
+Suco,5.50
+Batata Frita,12.00
+Refrigerante,6.00
+Coxinha,7.50
+Pastel,8.00
+Salada,14.00
+Hot Dog,10.00
+Lasanha,28.00
+Esfiha,6.50
+Kibe,7.00
+Sorvete,9.00
+Milkshake,12.50
+Torta,11.00
+Pão de Queijo,5.00
+Café,4.00
+Chá,3.50
+Açaí,15.50
+Brownie,10.50
+Panqueca,16.00
